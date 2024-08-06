@@ -1,0 +1,17 @@
+/* XSmall */
+@media screen and (min-width: 470px) {}
+
+/* Small */
+@media screen and (min-width: 640px) {}
+
+/* Medium */
+@media screen and (min-width: 868px) {}
+
+/* Large */
+@media screen and (min-width: 1024px) {}
+
+/* XLarge */
+@media screen and (min-width: 1280px) {}
+
+/* 2XLarge*/
+@media screen and (min-width: 1536px) {}
